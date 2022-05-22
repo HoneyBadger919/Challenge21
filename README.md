@@ -27,9 +27,7 @@ Fill the missing parts, test the functionality on a personal Ethereum blockchain
 
 ### 4. Deploy the contract on a local blockchain
 
-https://user-images.githubusercontent.com/86806855/169716476-2be342eb-204d-41ec-bfce-908e1cdcb13b.mp4
-
-
+https://user-images.githubusercontent.com/86806855/169718214-4496c2e7-1f89-4b64-98bf-731b49ca64cc.mp4
 
 ## License
 
